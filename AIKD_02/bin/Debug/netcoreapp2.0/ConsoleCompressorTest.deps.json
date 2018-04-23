@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "1beb761f6227b7b4071ce78b0fbdd1732484c4ed"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ConsoleCompressorTest/1.0.0": {
+        "dependencies": {
+          "Compressor": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleCompressorTest.dll": {}
+        }
+      },
+      "EntityFramework/6.1.3": {
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
+      "Compressor/1.0.0": {
+        "dependencies": {
+          "EntityFramework": "6.1.3"
+        },
+        "runtime": {
+          "Compressor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleCompressorTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityFramework/6.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2xzFHAF3VVdmTR3//MygtQpwfbDjeaq+nQwCcokLzen7MKHOojPaxNPQPa4diHY1QtcR7zlHAJHNRqPB7W2Syw==",
+      "path": "entityframework/6.1.3",
+      "hashPath": "entityframework.6.1.3.nupkg.sha512"
+    },
+    "Compressor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

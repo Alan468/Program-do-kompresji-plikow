@@ -1,0 +1,14 @@
+E:\Projekty\AIKD\AIKD_02\AIKD_02\bin\Debug\netcoreapp2.0\ConsoleCompressorTest.deps.json
+E:\Projekty\AIKD\AIKD_02\AIKD_02\bin\Debug\netcoreapp2.0\ConsoleCompressorTest.runtimeconfig.json
+E:\Projekty\AIKD\AIKD_02\AIKD_02\bin\Debug\netcoreapp2.0\ConsoleCompressorTest.runtimeconfig.dev.json
+E:\Projekty\AIKD\AIKD_02\AIKD_02\bin\Debug\netcoreapp2.0\ConsoleCompressorTest.dll
+E:\Projekty\AIKD\AIKD_02\AIKD_02\bin\Debug\netcoreapp2.0\ConsoleCompressorTest.pdb
+E:\Projekty\AIKD\AIKD_02\AIKD_02\bin\Debug\netcoreapp2.0\Compressor.dll
+E:\Projekty\AIKD\AIKD_02\AIKD_02\bin\Debug\netcoreapp2.0\Compressor.pdb
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\ConsoleCompressorTest.csprojResolveAssemblyReference.cache
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\ConsoleCompressorTest.csproj.CoreCompileInputs.cache
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\ConsoleCompressorTest.AssemblyInfoInputs.cache
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\ConsoleCompressorTest.AssemblyInfo.cs
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\ConsoleCompressorTest.csproj.CopyComplete
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\ConsoleCompressorTest.dll
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\ConsoleCompressorTest.pdb

@@ -1,0 +1,11 @@
+E:\Projekty\AIKD\AIKD_02\AIKD_02\bin\Debug\netcoreapp2.0\AIKD_02.deps.json
+E:\Projekty\AIKD\AIKD_02\AIKD_02\bin\Debug\netcoreapp2.0\AIKD_02.runtimeconfig.json
+E:\Projekty\AIKD\AIKD_02\AIKD_02\bin\Debug\netcoreapp2.0\AIKD_02.runtimeconfig.dev.json
+E:\Projekty\AIKD\AIKD_02\AIKD_02\bin\Debug\netcoreapp2.0\AIKD_02.dll
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\AIKD_02.csproj.CoreCompileInputs.cache
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\AIKD_02.AssemblyInfoInputs.cache
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\AIKD_02.AssemblyInfo.cs
+E:\Projekty\AIKD\AIKD_02\AIKD_02\bin\Debug\netcoreapp2.0\AIKD_02.pdb
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\AIKD_02.dll
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\AIKD_02.pdb
+E:\Projekty\AIKD\AIKD_02\AIKD_02\obj\Debug\netcoreapp2.0\AIKD_02.csprojResolveAssemblyReference.cache

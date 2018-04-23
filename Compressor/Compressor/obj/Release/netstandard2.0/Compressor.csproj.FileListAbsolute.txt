@@ -1,0 +1,11 @@
+E:\Projekty\AIKD\AIKD_02\Compressor\Compressor\bin\Release\netstandard2.0\Compressor.deps.json
+E:\Projekty\AIKD\AIKD_02\Compressor\Compressor\bin\Release\netstandard2.0\Compressor.dll
+E:\Projekty\AIKD\AIKD_02\Compressor\Compressor\bin\Release\netstandard2.0\Compressor.pdb
+E:\Projekty\AIKD\AIKD_02\Compressor\Compressor\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+E:\Projekty\AIKD\AIKD_02\Compressor\Compressor\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+E:\Projekty\AIKD\AIKD_02\Compressor\Compressor\obj\Release\netstandard2.0\Compressor.csproj.CoreCompileInputs.cache
+E:\Projekty\AIKD\AIKD_02\Compressor\Compressor\obj\Release\netstandard2.0\Compressor.AssemblyInfoInputs.cache
+E:\Projekty\AIKD\AIKD_02\Compressor\Compressor\obj\Release\netstandard2.0\Compressor.AssemblyInfo.cs
+E:\Projekty\AIKD\AIKD_02\Compressor\Compressor\obj\Release\netstandard2.0\Compressor.csproj.CopyComplete
+E:\Projekty\AIKD\AIKD_02\Compressor\Compressor\obj\Release\netstandard2.0\Compressor.dll
+E:\Projekty\AIKD\AIKD_02\Compressor\Compressor\obj\Release\netstandard2.0\Compressor.pdb
